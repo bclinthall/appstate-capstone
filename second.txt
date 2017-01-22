@@ -1,1 +1,1 @@
-second file
+This is the second file created for purposes of testing git.
